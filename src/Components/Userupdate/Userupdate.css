@@ -1,0 +1,34 @@
+.titleInput {
+  width: 30%;
+  margin-left: 10%;
+}
+.descriptionTitle {
+  width: 30%;
+  margin-left: 10%;
+}
+.update {
+  margin-top: 10%;
+  box-sizing: border-box;
+  width: 50%;
+  height: 50%;
+
+  border: 2px solid white;
+  border-radius: 5%;
+  background-color: white;
+
+  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+.titLabel {
+  margin-left: 10%;
+}
+.desLabel {
+  margin-left: 10%;
+}
+.updateButton {
+  margin-right: 40%;
+}
+.deleteButton {
+  margin-right: 100%;
+  margin-left: -100%;
+}
